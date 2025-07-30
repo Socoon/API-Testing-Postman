@@ -25,6 +25,6 @@ A basic API testing project with [Reqres API](https://reqres.in).
 ---
 
 💼 Built for practice and CV showcase  
-📌 Author: [Socoon]
+
 
 
