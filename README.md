@@ -22,6 +22,11 @@ A basic API testing project with [Reqres API](https://reqres.in).
 2. Import the collection
 3. Use Collection Runner to execute tests
 
+
+https://github.com/user-attachments/assets/47112d35-f19d-48d2-b883-6be19536daef
+
+
+
 ---
 
 💼 Built for practice and CV showcase  
