@@ -3,10 +3,10 @@
 A basic API testing project with [Reqres API](https://reqres.in).
 
 ## 🔧 Tested Endpoints:
-- ✅ `GET /api/users/2`
+- ✅ `GET /api/users/1`
 - ✅ `POST /api/users`
-- ✅ `PUT /api/users/2`
-- ✅ `DELETE /api/users/2`
+- ✅ `PUT /api/users/1`
+- ✅ `DELETE /api/users/1`
 
 ## 🧪 Test Coverage:
 - Status code assertions
