@@ -1,7 +1,5 @@
 # API Testing Postman
 
-API Testing (Postman Project)
-
 A basic API testing project with [Reqres API](https://reqres.in).
 
 ## 🔧 Tested Endpoints:
